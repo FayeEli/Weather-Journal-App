@@ -1,5 +1,5 @@
 /* Global Variables */
-const apiKey = 'your_api_key&units=imperial';
+const apiKey = '235425d1a2dae442b5d7754c4174fd70&units=imperial';
 const baseURL = 'https://api.openweathermap.org/data/2.5/weather?zip=';
 
 // Event listener to add function to existing HTML DOM element
